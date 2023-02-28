@@ -1,8 +1,6 @@
 <h1 align="center">Projeto Escultor 3D com interface</h1>
 <p align="center">🚀 Projeto para construir escultura 3D</p>
 
-Projeto desenvolvido por <strong> Guilherme Pablo de Santana Maciel </strong>
-
 ### 🛠 Tecnologia Utilizadas no Desenvolvimento 
 
 As seguintes ferramentas foram usadas na construção do projeto:
